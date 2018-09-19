@@ -32,7 +32,7 @@
 30,PRT,-,19.0,Team LottoNL-Jumbo,-,0.0,2816.1,,,,,,,,,,,,,,,,,,,,,,0,1.82,0,Belgium,0,0,2,1,K.De Weert
 31,CONT,442,40.0,Torku Seker Spor,-,6.0,5905.2,PRT,1271,38.0,Lotto - Soudal,-,0.0,5729.3,PRT,342,81.0,Lotto - Soudal,112,2.0,13191.4,PRT,2167,41.0,Lotto - Soudal,399,0.0,6363.6,4,,4,Poland,0,1,9,0,T.Marczynski
 32,PRT,178,70.0,Team Giant - Alpecin,139,2.0,11429.5,PRT,507,66.0,Team Giant - Alpecin,-,0.0,10637.8,PRT,541,68.0,Team Sunweb,277,0.0,10831.5,PRT,741,53.0,Groupama - FDJ,406,1.0,8711.4,0,1.93,0,Netherlands,0,0,7,1,R.Sinkeldam
-33,PROF,668.0,57.0,RusVelo,-,1.0,7678.9,PROF,1728.0,60.0,Gazprom - RusVelo,-,0.0,9081.2,PROF,1166.0,46.0,Gazprom - RusVelo,-,0.0,7196.8,CONT,295.0,42.0,Terengganu Cycling Team,-,4.0,5944.0,1,,0,Russia,0,0,7,1,A.Ovechkin
+33,PROF,668.0,57.0,RusVelo,-,1.0,7678.9,PROF,1728.0,60.0,Gazprom - RusVelo,-,0.0,9081.2,PROF,1166.0,46.0,Gazprom - RusVelo,-,0.0,7196.8,CONT,295.0,43.0,Terengganu Cycling Team,-,4.0,6043.4,1,,0,Russia,0,0,7,1,A.Ovechkin
 34,PROF,110.0,80.0,CCC Sprandi Polkowice,-,4.0,13947.8,PROF,263.0,60.0,CCC Sprandi Polkowice,-,1.0,9244.0,PROF,214.0,77.0,CCC Sprandi Polkowice,-,6.0,12259.3,CONT,217.0,44.0,Wibatech Merx 7R,-,6.0,6097.9,2,,3,Poland,3,0,14,0,M.Paterski
 35,PRT,2045.0,57.0,BMC Racing Team,-,0.0,9057.7,PRT,1882.0,58.0,BMC Racing Team,-,0.0,8875.3,,,,,,,,,,,,,,,0,1.81,0,Slovakia,0,0,15,1,P.Velits
 36,PRT,1869,71.0,Etixx - Quick Step,-,0.0,10956.0,PRT,3411,65.0,Etixx - Quick Step,-,0.0,9819.2,PRT,-,39.0,Quick-Step Floors,-,0.0,5673.9,,,,,,,,0,1.85,0,Slovakia,0,0,3,2,M.Velits
@@ -91,7 +91,7 @@
 89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1.82,1,Denmark,0,0,10,0,N.Sørensen
 90,PROF,107.0,79.0,MTN - Qhubeka,-,2.0,12198.9,PRT,121.0,57.0,Dimension Data,99,5.0,8974.3,PRT,1209.0,38.0,Team Dimension Data,374,1.0,6473.9,PRT,1824.0,57.0,Team Dimension Data,-,0.0,8573.4,3,1.90,0,Great Britain,0,0,7,0,S.Cummings
 91,CONT,486.0,46.0,ActiveJet Team,-,6.0,7528.7,PROF,4104.0,11.0,Verva - ActiveJet Pro Cycling Team,-,0.0,1552.2,CONT,441.0,39.0,Domin Sport,-,0.0,5882.3,PROF,347.0,60.0,CCC Sprandi Polkowice,-,0.0,9410.1,2,,0,Poland,1,0,9,0,P.Bernas
-92,PRT,354.0,73.0,Team Katusha,-,0.0,11811.7,PRT,3688.0,3.0,Team Katusha,-,0.0,353.0,CONT,573.0,57.0,Minsk Cycling Club,-,0.0,7837.8,CONT,532.0,61.0,Minsk Cycling Club,-,2.0,7950.1,0,1.77,2,Russia,1,0,6,0,E.Vorganov
+92,PRT,354.0,73.0,Team Katusha,-,0.0,11811.7,PRT,3688.0,3.0,Team Katusha,-,0.0,353.0,CONT,573.0,57.0,Minsk Cycling Club,-,0.0,7837.8,CONT,532.0,62.0,Minsk Cycling Club,-,2.0,8049.5,0,1.77,2,Russia,1,0,6,0,E.Vorganov
 93,PRT,182,70.0,Movistar Team,94,0.0,11224.9,PRT,109,75.0,Movistar Team,220,0.0,11780.0,PRT,100,76.0,Movistar Team,81,2.0,11895.0,PRT,47,86.0,Bahrain - Merida,53,0.0,12941.6,2,1.76,0,Spain,0,0,5,1,G.Izagirre
 94,PRT,668.0,61.0,Team Giant - Alpecin,-,0.0,9332.5,PRT,385.0,91.0,Team Giant - Alpecin,175,0.0,14160.5,PRT,588.0,74.0,FDJ,347,0.0,11500.6,PRT,1228.0,56.0,Groupama - FDJ,387,0.0,8465.5,1,1.94,0,Sweden,0,0,4,3,T.Ludvigsson
 95,PRT,231.0,81.0,Team Katusha,182,0.0,13619.8,PRT,391.0,83.0,Team Katusha,123,1.0,12945.1,PROF,1364.0,65.0,Gazprom - RusVelo,-,0.0,11106.7,PROF,2331.0,47.0,Gazprom - RusVelo,-,0.0,7954.2,0,,0,Uzbekistan,2,1,9,0,S.Lagutin
@@ -119,7 +119,7 @@
 117,PRT,1058.0,53.0,Orica - GreenEDGE,-,0.0,8648.6,PRT,1372.0,42.0,Orica - BikeExchange,-,0.0,6785.0,PRT,640.0,47.0,Orica - Scott,214,0.0,7897.5,PRT,3214.0,78.0,Team EF Education First - Drapac,-,0.0,12483.9,1,1.80,0,Australia,0,1,0,0,M.Docker
 118,PROF,995,44.0,Bora - Argon 18,-,0.0,7264.9,PROF,2350,53.0,Wanty - Groupe Gobert,-,0.0,8431.0,CONT,765,29.0,Kuwait - Cartucho,-,0.0,4255.3,CONT,-,0.0,Holdsworth Racing,-,0.0,0.0,0,1.93,2,Germany,0,0,1,2,B.Thurau
 119,PROF,499,63.0,CCC Sprandi Polkowice,-,0.0,9968.3,PROF,532,55.0,CCC Sprandi Polkowice,-,2.0,8634.1,PROF,156,70.0,CCC Sprandi Polkowice,-,0.0,10990.5,PRT,568,66.0,Astana Pro Team,274,0.0,10598.9,3,,0,Czech Republic,0,0,2,1,Y.Popovych
-120,CONT,685.0,16.0,NFTO,-,2.0,2262.9,PROF,261.0,66.0,ONE Pro Cycling,-,2.0,9626.6,CONT,808.0,22.0,ONE Pro Cycling,-,0.0,3436.4,CONT,616.0,29.0,Bennelong - Swisswellness,-,1.0,4022.2,2,1.80,0,Australia,1,0,7,0,A.Rybakov
+120,CONT,685.0,16.0,NFTO,-,2.0,2262.9,PROF,261.0,66.0,ONE Pro Cycling,-,2.0,9626.6,CONT,808.0,22.0,ONE Pro Cycling,-,0.0,3436.4,CONT,616.0,30.0,Bennelong - Swisswellness,-,1.0,4121.6,2,1.80,0,Australia,1,0,7,0,A.Rybakov
 121,PRT,1558.0,53.0,AG2R La Mondiale,-,0.0,8261.6,PRT,1441.0,60.0,AG2R La Mondiale,-,0.0,9878.6,PROF,2573.0,67.0,"Cofidis, Solutions Credits",-,0.0,10565.1,PROF,2419.0,34.0,"Cofidis, Solutions Credits",-,0.0,5724.0,0,1.84,0,France,0,0,3,0,S.von Hoff
 122,PRT,178.0,82.0,BMC Racing Team,88,0.0,12995.7,PRT,67.0,83.0,BMC Racing Team,63,1.0,13089.3,PRT,298.0,76.0,UAE Team Emirates,135,0.0,12256.0,PRT,1274.0,73.0,UAE Team Emirates,352,0.0,11317.6,3,1.67,2,Colombia,0,0,1,1,G.Bonnafond
 123,PRT,242.0,66.0,Team Sky,-,0.0,10081.7,PRT,234.0,65.0,Dimension Data,94,0.0,10130.2,PRT,547.0,47.0,Bahrain - Merida,331,0.0,7572.6,PRT,271.0,29.0,Bahrain - Merida,313,2.0,4394.9,1,1.84,1,Belarus,0,0,11,1,D.Boucher
@@ -156,7 +156,7 @@
 154,PROF,287,52.0,Androni Giocattoli - Sidermec,-,2.0,8632.2,PRT,298,74.0,Tinkoff,-,1.0,11869.6,PRT,366,67.0,Astana Pro Team,133,1.0,10314.5,PRT,2011,47.0,Astana Pro Team,313,0.0,7291.2,2,1.75,0,Italy,0,0,14,1,D.Malacarne
 155,PROF,287,52.0,Androni Giocattoli - Sidermec,-,2.0,8632.2,PRT,298,74.0,Tinkoff,-,1.0,11869.6,PRT,366,67.0,Astana Pro Team,133,1.0,10314.5,PRT,2011,47.0,Astana Pro Team,313,0.0,7291.2,2,1.75,0,Italy,0,0,14,1,O.Gatto
 156,PRT,2392.0,74.0,FDJ,-,0.0,11911.2,PRT,2271.0,40.0,FDJ,-,0.0,6427.2,,,,,,,,,,,,,,,0,1.83,0,France,3,0,4,0,B.Swift
-157,PRT,475.0,49.0,Team Cannondale - Garmin,-,1.0,8014.7,PROF,1679.0,15.0,Stölting Service Group,-,0.0,2324.0,PROF,467.0,69.0,Aqua Blue Sport,-,0.0,11065.1,PROF,296.0,31.0,Aqua Blue Sport,-,2.0,4808.0,3,1.80,1,Denmark,1,0,11,0,S.Chavanel
+157,PRT,475,49.0,Team Cannondale - Garmin,-,1.0,8014.7,PROF,1679,15.0,Stölting Service Group,-,0.0,2324.0,PROF,467,69.0,Aqua Blue Sport,-,0.0,11065.1,PROF,296,31.0,Aqua Blue Sport,-,2.0,4808.0,3,1.80,1,Denmark,1,0,11,0,S.Chavanel
 158,PRT,1558.0,53.0,AG2R La Mondiale,-,0.0,8261.6,PRT,1441.0,60.0,AG2R La Mondiale,-,0.0,9878.6,PROF,2573.0,67.0,"Cofidis, Solutions Credits",-,0.0,10565.1,PROF,2419.0,34.0,"Cofidis, Solutions Credits",-,0.0,5724.0,0,1.84,0,France,0,0,3,0,L.Norman Hansen
 159,CONT,601.0,31.0,An Post - Chainreaction,-,3.0,4715.4,CONT,2047.0,12.0,NFTO,-,0.0,1936.1,,,,,,,,,,,,,,,0,1.81,1,Great Britain,0,0,1,0,K.Fernandez
 160,PRT,808,62.0,Team Cannondale - Garmin,-,0.0,9480.3,PRT,835,46.0,Cannondale - Drapac Pro Cycling,200,0.0,7289.5,PRT,861,76.0,Cannondale - Drapac Pro Cycling,250,0.0,11279.5,PRT,877,69.0,Team EF Education First - Drapac,228,0.0,10255.6,0,1.72,0,USA,1,0,6,0,J.Edmondson
@@ -189,8 +189,8 @@
 187,PRT,303,75.0,FDJ,-,0.0,11327.5,PRT,306,69.0,FDJ,-,0.0,11206.4,PRT,1237,68.0,FDJ,256,0.0,11851.0,PRT,457,55.0,Groupama - FDJ,352,0.0,9332.5,2,1.81,0,France,0,1,6,3,M.Ladagnous
 188,PRT,515.0,53.0,Astana Pro Team,-,0.0,8797.1,PROF,822.0,67.0,"Cofidis, Solutions Credits",-,0.0,11007.9,PRT,1119.0,60.0,Bahrain - Merida,351,0.0,10214.6,PRT,1395.0,28.0,Bahrain - Merida,-,0.0,4182.1,0,1.78,0,Slovenia,5,0,6,0,B.Bozic
 189,PRT,448,71.0,Etixx - Quick Step,-,1.0,11012.3,PRT,1316,67.0,Team Sky,-,0.0,11144.0,PRT,1031,75.0,Team Sky,337,0.0,12731.1,PRT,570,47.0,Team Sky,274,0.0,7780.6,3,1.80,2,Poland,0,1,2,0,M.Golas
-190,PRT,428.0,87.0,AG2R La Mondiale,196,0.0,14110.8,CONT,430.0,43.0,Sporting Clube de Portugal - Tavira,-,1.0,6480.3,CONT,249.0,38.0,Sporting Clube de Portugal - Tavira,-,1.0,5643.2,CONT,1073.0,36.0,Sporting Clube de Portugal - Tavira,-,2.0,5162.7,2,1.73,1,Italy,0,0,10,0,R.Nocentini
-191,PROF,105.0,75.0,CCC Sprandi Polkowice,-,1.0,12476.9,PROF,265.0,63.0,Nippo - Vini Fantini,-,2.0,9995.7,PRT,770.0,77.0,Bahrain - Merida,221,0.0,12799.5,PRT,542.0,40.0,Bahrain - Merida,163,2.0,6330.2,1,,0,Slovenia,5,0,10,1,G.Bole
+190,PRT,428.0,87.0,AG2R La Mondiale,196,0.0,14110.8,CONT,430.0,43.0,Sporting Clube de Portugal - Tavira,-,1.0,6480.3,CONT,249.0,38.0,Sporting Clube de Portugal - Tavira,-,1.0,5643.2,CONT,1073.0,37.0,Sporting Clube de Portugal - Tavira,-,2.0,5262.1,2,1.73,1,Italy,0,0,10,0,R.Nocentini
+191,PROF,105,75.0,CCC Sprandi Polkowice,-,1.0,12476.9,PROF,265,63.0,Nippo - Vini Fantini,-,2.0,9995.7,PRT,770,77.0,Bahrain - Merida,221,0.0,12799.5,PRT,542,40.0,Bahrain - Merida,163,2.0,6330.2,1,,0,Slovenia,5,0,10,1,G.Bole
 192,PRT,553,66.0,Etixx - Quick Step,-,0.0,10310.5,PRT,152,72.0,Etixx - Quick Step,67,1.0,11895.2,PRT,75,65.0,Quick-Step Floors,85,2.0,9893.0,PRT,84,77.0,Team Sky,96,2.0,11962.8,4,,0,Spain,0,0,0,1,D.De La Cruz
 193,PRT,39,61.0,Team Sky,32,1.0,9416.3,PRT,43,50.0,Team Sky,15,0.0,7879.9,PRT,54,58.0,Team Sky,25,1.0,9920.6,PRT,90,73.0,Team Sky,89,0.0,11841.9,7,1.69,1,Colombia,2,0,8,0,S.Luis Henao
 194,PRT,195,69.0,BMC Racing Team,-,2.0,11291.5,PRT,308,45.0,BMC Racing Team,200,0.0,7315.6,PRT,91,79.0,BMC Racing Team,128,2.0,13834.3,PRT,137,70.0,AG2R La Mondiale,80,1.0,11138.9,7,1.83,1,Switzerland,1,0,12,3,S.Dillier
@@ -230,7 +230,7 @@
 228,PRT,537,49.0,Team Cannondale - Garmin,-,0.0,7866.4,PRT,118,60.0,Cannondale - Drapac Pro Cycling,20,0.0,9600.4,PRT,229,63.0,Cannondale - Drapac Pro Cycling,107,0.0,10770.3,PRT,1219,30.0,BMC Racing Team,371,0.0,4967.5,6,1.80,0,Italy,1,0,7,0,A.Bettiol
 229,PRT,1642.0,44.0,IAM Cycling,-,0.0,6470.5,PRT,1013.0,47.0,IAM Cycling,-,0.0,7504.4,CONT,2020.0,38.0,Roth - Akros,-,0.0,5759.0,,,,,,,,1,,0,Switzerland,0,0,1,0,J.Fumeaux
 230,PRT,261,66.0,BMC Racing Team,-,0.0,11632.3,PRT,485,56.0,BMC Racing Team,-,0.0,8853.2,PRT,52,71.0,BMC Racing Team,51,8.0,12505.3,PRT,49,69.0,BMC Racing Team,56,0.0,10422.1,3,,0,Belgium,2,0,4,3,D.Teuns
-231,PRT,475.0,49.0,Team Cannondale - Garmin,-,1.0,8014.7,PROF,1679.0,15.0,Stölting Service Group,-,0.0,2324.0,PROF,467.0,69.0,Aqua Blue Sport,-,0.0,11065.1,PROF,296.0,31.0,Aqua Blue Sport,-,2.0,4808.0,3,1.80,1,Denmark,1,0,11,0,X.Zandio
+231,PRT,475,49.0,Team Cannondale - Garmin,-,1.0,8014.7,PROF,1679,15.0,Stölting Service Group,-,0.0,2324.0,PROF,467,69.0,Aqua Blue Sport,-,0.0,11065.1,PROF,296,31.0,Aqua Blue Sport,-,2.0,4808.0,3,1.80,1,Denmark,1,0,11,0,X.Zandio
 232,PRT,393,72.0,Team Sky,174,0.0,10815.7,PRT,1340,76.0,Team Sky,-,0.0,11584.6,PRT,336,51.0,Team Sky,163,1.0,7358.6,PRT,1302,78.0,Team Katusha - Alpecin,279,0.0,11924.6,2,1.85,0,USA,0,0,3,1,D.Atapuma
 233,PRT,393,72.0,Team Sky,174,0.0,10815.7,PRT,1340,76.0,Team Sky,-,0.0,11584.6,PRT,336,51.0,Team Sky,163,1.0,7358.6,PRT,1302,78.0,Team Katusha - Alpecin,279,0.0,11924.6,2,1.85,0,USA,0,0,3,1,I.Boswell
 234,PRT,3830,71.0,Lotto - Soudal,-,0.0,11314.6,PRT,424,87.0,Lotto - Soudal,-,0.0,13093.7,PRT,183,78.0,Lotto - Soudal,140,1.0,12089.1,PRT,1120,71.0,Lotto - Soudal,287,0.0,11080.5,1,1.90,2,Belgium,0,0,3,0,J.Sergent
@@ -299,7 +299,7 @@
 297,PRT,836.0,94.0,Tinkoff - Saxo,196,0.0,15126.4,PRT,962.0,60.0,Tinkoff,-,0.0,10091.9,PROF,1797.0,74.0,Gazprom - RusVelo,-,0.0,12589.1,,,,,,,,1,1.78,1,Russia,3,0,9,2,P.Brutt
 298,PROF,423,73.0,MTN - Qhubeka,-,0.0,11458.6,PRT,1096,49.0,Dimension Data,-,0.0,8021.9,PRT,742,81.0,Team Dimension Data,253,0.0,13307.5,PRT,2492,53.0,Team Dimension Data,-,0.0,8770.9,0,,0,South Africa,0,0,3,1,J.Janse Van Rensburg
 299,PROF,909.0,52.0,Cult Energy Pro Cycling,-,0.0,8620.7,PROF,552.0,42.0,Verva - ActiveJet Pro Cycling Team,-,0.0,6912.2,,1543.0,21.0,Topforex-Lapierre Pro Cy,-,0.0,3129.4,CONT,1531.0,32.0,Pardus Tufo - Prostejov,-,0.0,4963.4,0,,1,Czech Republic,0,0,2,0,K.Hnik
-300,PRT,569.0,42.0,Etixx - Quick Step,-,0.0,6528.1,PRT,320.0,76.0,Etixx - Quick Step,-,0.0,12058.7,PRT,715.0,41.0,Team Sky,370,0.0,6962.2,PRT,360.0,44.0,Team Sky,114,0.0,6650.3,4,,0,Poland,0,0,5,0,L.Wisniowski
+300,PRT,569,42.0,Etixx - Quick Step,-,0.0,6528.1,PRT,320,76.0,Etixx - Quick Step,-,0.0,12058.7,PRT,715,41.0,Team Sky,370,0.0,6962.2,PRT,360,44.0,Team Sky,114,0.0,6650.3,4,,0,Poland,0,0,5,0,L.Wisniowski
 301,CONT,210,40.0,Team Vorarlberg,-,5.0,5974.7,PROF,265,57.0,CCC Sprandi Polkowice,-,0.0,9021.3,PRT,530,75.0,Movistar Team,180,0.0,11463.1,PRT,1187,82.0,Movistar Team,306,0.0,12261.9,2,,1,Spain,1,0,5,0,V.De La Parte
 302,CONT,475,51.0,Team Felbermayr - Simplon Wels,-,2.0,7783.4,PROF,289,52.0,CCC Sprandi Polkowice,-,0.0,8224.2,PROF,234,65.0,CCC Sprandi Polkowice,-,0.0,10327.1,PRT,156,57.0,Bora - Hansgrohe,154,0.0,9090.6,3,,1,Austria,0,0,2,0,F.Grossschartner
 303,PRT,312,56.0,Team Sky,157,1.0,8682.9,PRT,177,59.0,Team Sky,-,2.0,9103.1,PRT,927,55.0,Team Sky,177,1.0,8122.7,PRT,527,34.0,Bora - Hansgrohe,257,1.0,5021.0,4,1.73,0,Great Britain,1,0,10,0,P.Kennaugh
@@ -340,7 +340,7 @@
 338,CONT,1085.0,36.0,Rad-Net Rose Team,-,1.0,5110.3,PROF,630.0,47.0,Verva - ActiveJet Pro Cycling Team,-,0.0,7512.8,PROF,412.0,52.0,CCC Sprandi Polkowice,-,0.0,8171.8,PROF,222.0,57.0,CCC Sprandi Polkowice,-,0.0,8984.6,0,,0,Germany,1,0,0,2,J.Koch
 339,PROF,299,65.0,Caja Rural - Seguros RGA,-,2.0,9958.6,PRT,517,64.0,Dimension Data,200,0.0,9964.8,PRT,218,63.0,Team Dimension Data,135,1.0,10104.3,PRT,182,79.0,Astana Pro Team,93,3.0,12055.6,3,,4,Spain,0,1,1,1,O.Fraile
 340,PROF,2694.0,51.0,MTN - Qhubeka,-,0.0,7684.0,PRT,3189.0,32.0,Dimension Data,-,0.0,5154.5,PRT,2672.0,45.0,Team Dimension Data,-,0.0,6723.1,,2492.0,9.0,Sampada Cycling Team,-,0.0,986.7,0,,0,Rwanda,0,0,3,0,A.Niyonshuti
-341,PROF,2255,47.0,Team Novo Nordisk,-,0.0,6874.6,PROF,-,36.0,Team Novo Nordisk,-,0.0,5679.9,PROF,2924,47.0,Team Novo Nordisk,-,0.0,6497.2,PROF,-,14.0,Team Novo Nordisk,-,0.0,1632.1,0,,0,Ireland,0,0,0,0,S.Clancy
+341,PROF,2255,47.0,Team Novo Nordisk,-,0.0,6874.6,PROF,-,36.0,Team Novo Nordisk,-,0.0,5679.9,PROF,2924,47.0,Team Novo Nordisk,-,0.0,6497.2,PROF,-,15.0,Team Novo Nordisk,-,0.0,1731.5,0,,0,Ireland,0,0,0,0,S.Clancy
 342,PROF,2045,84.0,MTN - Qhubeka,-,0.0,13190.4,PRT,-,58.0,Dimension Data,-,0.0,9074.3,CONT,-,6.0,Kuwait - Cartucho,-,0.0,902.4,,2583,4.0,Sampada Cycling Team,-,0.0,397.1,1,,0,South Africa,0,0,0,0,S.Jim
 343,PRT,1488.0,58.0,IAM Cycling,-,0.0,9137.4,PRT,2435.0,46.0,IAM Cycling,-,0.0,7111.0,,,,,,,,,,,,,,,0,,0,Switzerland,0,0,0,0,M.Aregger
 344,CONT,713,45.0,Itera - Katusha,-,2.0,6338.0,PRT,343,72.0,Team Katusha,-,0.0,11001.5,PRT,1057,86.0,Team Katusha - Alpecin,305,0.0,13331.9,PROF,-,5.0,Burgos - BH,-,0.0,879.4,1,,1,Russia,0,0,0,1,M.Mamykin
@@ -355,7 +355,7 @@
 353,PROF,3301.0,51.0,Bardiani - CSF Pro Team,-,0.0,7919.4,PROF,1239.0,52.0,Bardiani - CSF,-,0.0,8281.3,PROF,3265.0,52.0,Bardiani - CSF,-,0.0,8465.0,PROF,616.0,61.0,Bardiani - CSF,-,1.0,9455.0,1,,0,Italy,0,0,7,0,A.Tonelli
 354,PROF,1203.0,9.0,Bardiani - CSF Pro Team,-,0.0,1506.5,PROF,985.0,64.0,Bardiani - CSF,-,0.0,10062.1,PROF,896.0,84.0,Bardiani - CSF,-,0.0,13658.3,PROF,685.0,60.0,Bardiani - CSF,-,2.0,9349.4,0,,1,Italy,0,1,5,0,M.Maestri
 355,PROF,509.0,67.0,Team Novo Nordisk,-,0.0,10113.1,PROF,1037.0,64.0,Team Novo Nordisk,-,0.0,9704.7,PROF,1285.0,39.0,Team Novo Nordisk,-,0.0,6462.4,,,,,,,,0,,0,Netherlands,0,0,0,0,M.Verschoor
-356,PROF,2789,61.0,Team Novo Nordisk,-,0.0,9549.3,PROF,2047,71.0,Team Novo Nordisk,-,0.0,10950.8,PROF,4203,55.0,Team Novo Nordisk,-,0.0,7790.7,PROF,-,24.0,Team Novo Nordisk,-,0.0,3342.8,0,,0,Australia,0,0,0,0,C.Williams
+356,PROF,2789,61.0,Team Novo Nordisk,-,0.0,9549.3,PROF,2047,71.0,Team Novo Nordisk,-,0.0,10950.8,PROF,4203,55.0,Team Novo Nordisk,-,0.0,7790.7,PROF,-,25.0,Team Novo Nordisk,-,0.0,3442.2,0,,0,Australia,0,0,0,0,C.Williams
 357,PROF,1314.0,37.0,Bardiani - CSF Pro Team,-,0.0,5846.4,PROF,330.0,74.0,Bardiani - CSF,-,0.0,11433.8,PROF,609.0,63.0,Bardiani - CSF,-,0.0,10293.3,PROF,243.0,63.0,Bardiani - CSF,-,1.0,10253.5,1,,0,Italy,0,0,16,0,P.Simion
 358,PRT,354,70.0,Team Giant - Alpecin,-,0.0,11462.9,PRT,322,64.0,Team Giant - Alpecin,220,1.0,10095.5,PRT,1268,34.0,Team Sunweb,-,0.0,5410.2,PROF,725,32.0,Verandas Willems - Crelan - Charles,-,0.0,5471.4,2,,0,Belgium,0,1,3,0,Z.Waeytens
 359,PRT,1834.0,59.0,Lampre - Merida,-,0.0,8702.8,PRT,1048.0,76.0,Lampre - Merida,-,0.0,11606.5,,,,,,,,,,,,,,,0,,0,Portugal,0,0,0,0,M.Costa
@@ -404,7 +404,7 @@
 402,PRT,86,55.0,Orica - GreenEDGE,35,1.0,9019.2,PRT,37,52.0,Orica - BikeExchange,30,0.0,8586.5,PRT,36,71.0,Orica - Scott,49,1.0,11639.1,PRT,40,73.0,Mitchelton - Scott,31,2.0,10963.9,7,1.73,0,Great Britain,0,0,4,2,A.Yates
 403,PRT,181.0,64.0,Team Cannondale - Garmin,-,2.0,9883.9,PRT,443.0,81.0,Cannondale - Drapac Pro Cycling,190,0.0,12437.1,PRT,1412.0,73.0,Cannondale - Drapac Pro Cycling,341,0.0,11362.7,PRT,407.0,61.0,Team EF Education First - Drapac,387,0.0,8992.9,2,1.85,0,USA,0,0,2,4,J.Dombrowski
 404,PRT,118,69.0,Team Cannondale - Garmin,75,2.0,11157.1,PRT,197,67.0,Cannondale - Drapac Pro Cycling,152,1.0,11291.6,PRT,210,83.0,Cannondale - Drapac Pro Cycling,70,1.0,13287.9,PRT,264,69.0,Team Dimension Data,75,0.0,10724.8,4,1.69,1,Netherlands,0,0,3,2,T.Jelte Slagter
-405,CONT,707.0,44.0,AWT - GreenWay,-,0.0,5293.9,CONT,341.0,57.0,Klein Constantia,-,3.0,7662.2,PRT,304.0,42.0,Quick-Step Floors,264,0.0,6301.7,PRT,54.0,62.0,Quick-Step Floors,72,3.0,10235.9,7,,0,Germany,0,0,2,1,M.Schachmann
+405,CONT,707,44.0,AWT - GreenWay,-,0.0,5293.9,CONT,341,57.0,Klein Constantia,-,3.0,7662.2,PRT,304,42.0,Quick-Step Floors,264,0.0,6301.7,PRT,54,62.0,Quick-Step Floors,72,3.0,10235.9,7,,0,Germany,0,0,2,1,M.Schachmann
 406,,509,33.0,Jayco-AIS WTA,-,2.0,4566.2,PRT,937,13.0,Orica - BikeExchange,-,0.0,2090.4,PRT,664,59.0,Orica - Scott,-,0.0,9022.0,PRT,362,60.0,Mitchelton - Scott,154,1.0,8481.2,6,,0,Australia,0,0,6,2,R.Power
 407,PRT,29,65.0,AG2R La Mondiale,18,2.0,9899.9,PRT,89,83.0,AG2R La Mondiale,105,0.0,13496.2,PRT,24,74.0,AG2R La Mondiale,24,1.0,11976.2,PRT,22,69.0,Bahrain - Merida,40,0.0,10936.7,8,1.65,2,Italy,1,0,2,0,D.Pozzovivo
 408,CONT,322,41.0,Team Joker,-,1.0,6122.7,PRT,300,69.0,FDJ,-,0.0,10945.8,PRT,308,66.0,FDJ,199,1.0,10140.3,PROF,217,54.0,Wanty - Groupe Gobert,-,1.0,7814.5,12,,0,Norway,0,0,3,2,O.Christian Eiking
