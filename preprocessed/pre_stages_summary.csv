@@ -27,10 +27,10 @@ date,year,stage,stage_type,stage_type_code,dist,finish,temp,rel_humid,wind_dir,w
 2017-08-02,2017,5,hilly,2,130.0,Rzeszów,33.0,40,WNW,3,6,8
 2017-08-03,2017,6,hilly,2,189.0,Zakopane,30.6,32,W,5,5,8
 2017-08-04,2017,7,hilly-mf,3,132.0,Bukowina Tatrzańska,24.0,0,SW,3,8,7
-2018-08-04,2018,1,flat,1,134.0,Kraków,27.6,27,W,3,2,9
-2018-08-05,2018,2,flat,1,144.3,Katowice,30.5,24,WNW,4,3,8
-2018-08-06,2018,3,flat,1,139.0,Zabrze,22.9,0,,0,6,6
-2018-08-07,2018,4,hilly-mf,3,179.0,Szczyrk,24.3,37,NW,4,2,8
-2018-08-08,2018,5,hilly-mf,3,152.0,Bielsko-Biała,22.1,67,NW,2,2,8
-2018-08-09,2018,6,hilly,2,129.0,Bukovina Resort,21.2,64,SSW,2,7,8
-2018-08-10,2018,7,hilly-mf,3,136.0,Bukowina Tatrzańska,19.1,0,NNW,2,7,7
+2018-08-04,2018,1,flat,1,134.0,Kraków,31.3,32,SE,2,0,8
+2018-08-05,2018,2,flat,1,144.3,Katowice,25.6,55,N,3,4,7
+2018-08-06,2018,3,flat,1,139.0,Zabrze,23.7,0,,0,4,6
+2018-08-07,2018,4,hilly-mf,3,179.0,Szczyrk,29.0,36,ESE,4,1,9
+2018-08-08,2018,5,hilly-mf,3,152.0,Bielsko-Biała,29.7,41,E,3,0,8
+2018-08-09,2018,6,hilly,2,129.0,Bukovina Resort,28.9,51,ESE,2,5,8
+2018-08-10,2018,7,hilly-mf,3,136.0,Bukowina Tatrzańska,23.7,0,N,2,7,7
