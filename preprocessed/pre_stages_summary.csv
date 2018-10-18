@@ -18,7 +18,6 @@ date,year,stage,stage_type,stage_type_code,dist,finish,temp,rel_humid,wind_dir,w
 2016-07-14,2016,3,hilly,2,240.0,Nowy Sacz,19.0,0,WSW,2,6,6
 2016-07-15,2016,4,hilly,2,218.0,Rzeszów,21.0,50,NW,4,7,4
 2016-07-16,2016,5,hilly-mf,3,225.0,Zakopane,17.9,77,ESE,3,8,7
-2016-07-17,2016,6,hilly-mf,3,194.0,Bukowina Tatrzańska,13.6,99,NNW,4,8,4
 2016-07-18,2016,7,itt,6,25.0,Kraków,12.5,0,WSW,3,8,5
 2017-07-29,2017,1,flat,1,130.0,Kraków,25.5,38,W,3,3,9
 2017-07-30,2017,2,flat,1,142.0,Katowice,29.6,33,WSW,4,2,9
